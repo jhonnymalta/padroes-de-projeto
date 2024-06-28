@@ -1,0 +1,15 @@
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\AbstractFactory.sourcelink.json
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
