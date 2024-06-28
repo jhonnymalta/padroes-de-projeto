@@ -1,0 +1,14 @@
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll

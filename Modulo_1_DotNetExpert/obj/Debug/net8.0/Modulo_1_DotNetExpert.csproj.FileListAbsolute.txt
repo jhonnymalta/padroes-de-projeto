@@ -1,0 +1,14 @@
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\bin\Debug\net8.0\Modulo_1_DotNetExpert.exe
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\bin\Debug\net8.0\Modulo_1_DotNetExpert.deps.json
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\bin\Debug\net8.0\Modulo_1_DotNetExpert.runtimeconfig.json
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\bin\Debug\net8.0\Modulo_1_DotNetExpert.dll
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\bin\Debug\net8.0\Modulo_1_DotNetExpert.pdb
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\obj\Debug\net8.0\Modulo_1_DotNetExpert.GeneratedMSBuildEditorConfig.editorconfig
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\obj\Debug\net8.0\Modulo_1_DotNetExpert.AssemblyInfoInputs.cache
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\obj\Debug\net8.0\Modulo_1_DotNetExpert.AssemblyInfo.cs
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\obj\Debug\net8.0\Modulo_1_DotNetExpert.csproj.CoreCompileInputs.cache
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\obj\Debug\net8.0\Modulo_1_DotNetExpert.dll
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\obj\Debug\net8.0\refint\Modulo_1_DotNetExpert.dll
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\obj\Debug\net8.0\Modulo_1_DotNetExpert.pdb
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\obj\Debug\net8.0\Modulo_1_DotNetExpert.genruntimeconfig.cache
+A:\DotnetProjects\009_Livro_Padroes_de_Projeto\Modulo_1_DotNetExpert\obj\Debug\net8.0\ref\Modulo_1_DotNetExpert.dll

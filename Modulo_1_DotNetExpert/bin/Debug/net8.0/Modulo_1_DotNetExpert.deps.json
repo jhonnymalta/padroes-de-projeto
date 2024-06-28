@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Modulo_1_DotNetExpert/1.0.0": {
+        "runtime": {
+          "Modulo_1_DotNetExpert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modulo_1_DotNetExpert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
